@@ -9,7 +9,7 @@
 
 <div align="center">
 
-🎓 Graduated from UNICEN (R.U.D.A.I)  
+🎓 Graduated from UNICEN (T.U.D.A.I)  
 🧠 Passionate about software design, architecture & UX  
 🚀 Always learning and building new things
 
