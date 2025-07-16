@@ -1,7 +1,7 @@
 
 <div>
-# 👋 Hi, I'm Joaquin Cambareri  
-### Full-Stack Developer | 22 y/o from Argentina 🇦🇷
+<h1>  Hi, I'm Joaquin Cambareri  </h1> 👋
+<h2> Full-Stack Developer | 22 y/o from Argentina 🇦🇷 </h2>
 
 </div>
 
