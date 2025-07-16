@@ -1,9 +1,4 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://your-image-url.com/banner.png" alt="Banner" width="100%" />
-</p>
 
-<div align="center">
 
 # 👋 Hi, I'm Joaquin Cambareri  
 ### Full-Stack Developer | 22 y/o from Argentina 🇦🇷
@@ -74,11 +69,8 @@ Spritesheets animation, Parallax scrolling
 
 ## 📫 Contact
 
-- 📧 joaquincambareri469@gmail.com*(replace this)*
+- 📧 joaquincambareri469@gmail.com
 - 💼 [LinkedIn]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/joaqu%C3%ADncambareri/)) 
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" />
-</div>
