@@ -74,8 +74,8 @@ Spritesheets animation, Parallax scrolling
 
 ## 📫 Contact
 
-- 📧 joaquincambareri@email.com *(replace this)*
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile/) *(replace this)*
+- 📧 joaquincambareri469@gmail.com*(replace this)*
+- 💼 [LinkedIn]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/joaqu%C3%ADncambareri/)) 
 
 ---
 
