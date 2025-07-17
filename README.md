@@ -1,7 +1,12 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://your-image-url.com/banner.png" alt="Banner" width="100%" />
+</p>
 
-<div>
-<h1>  Hi, I'm Joaquin Cambareri  </h1> 👋
-<h2> Full-Stack Developer | 22 y/o from Argentina 🇦🇷 </h2>
+<div align="center">
+
+# 👋 Hi, I'm Joaquin Cambareri  
+### Full-Stack Developer | 22 y/o from Argentina 🇦🇷
 
 </div>
 
@@ -10,13 +15,11 @@
 <div align="center">
 
 🎓 Graduated from UNICEN (T.U.D.A.I)  
-🧠 Passionate about software design, architecture & UX  
 🚀 Always learning and building new things
 
 </div>
 
 ---
-
 ## 🔧 Backend Development
 
 <p>
@@ -70,7 +73,8 @@ Spritesheets animation, Parallax scrolling
 ## 📫 Contact
 
 - 📧 joaquincambareri469@gmail.com
-- 💼 [LinkedIn]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/joaqu%C3%ADncambareri/)) 
+- 💼 [LinkedIn]([(https://www.linkedin.com/in/joaqu%C3%ADncambareri/)])
 
 ---
+
 
